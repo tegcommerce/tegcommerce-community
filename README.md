@@ -1,4 +1,4 @@
-## community
+# tegcommerce community ✨
 
 any collaboration will be welcome!
 
